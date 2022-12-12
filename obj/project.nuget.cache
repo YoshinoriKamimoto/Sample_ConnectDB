@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ioXhs0lv68t3cC7caX79O5vpCTt7YibxSoYO69fKNurY39isex6d3QFoQB6DgIarDdJiQkAw8jzhkw3LiVD1fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamimoto\\Desktop\\work\\tmp\\SampleConnectDB\\SampleConnectDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamimoto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kamimoto\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\kamimoto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
